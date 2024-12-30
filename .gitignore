@@ -1,0 +1,29 @@
+# Ignore data folder
+/data/
+
+# Python specific ignores
+*.pyc
+__pycache__/
+*.pyo
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
+env/
+.venv/
+
+# Ignore environment variables
+.env
+
+# Ignore large files like logs or temp files
+*.log
+*.tmp
+
+# Ignore virtual environment
+candogram/
+
+# Ignore macOS system files
+.DS_Store
